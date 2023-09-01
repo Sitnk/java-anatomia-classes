@@ -1,13 +1,13 @@
 public class MinhaClasse {
     
       
-    public static void main (String [] args) {
+    public static void main (string [] args) {
 
-       String primeiroNome = "Gleyson";
-       String segundoNome = "Sampaio";
+       string primeiroNome = "Gleyson";
+       string segundoNome = "Sampaio";
 
-       String nomeCompleto = nomeCompleto(primeiroNome,segundoNome);
-       System.out.println(nomeCompleto);
+       string nomeCompleto = nomeCompleto(primeiroNome,segundoNome);
+       system.out.println(nomeCompleto);
 
     }
 
