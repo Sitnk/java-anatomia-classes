@@ -1,13 +1,14 @@
+package edu.gleyson.segundasemana;
 public class MinhaClasse {
     
       
     public static void main (String [] args) {
 
-       String primeiroNome = "Gleyson";
-       String segundoNome = "Sampaio";
+        String primeiroNome = "Gleyson";
+        String segundoNome = "Sampaio";
 
-       String nomeCompleto = nomeCompleto(primeiroNome,segundoNome);
-       System.out.println(nomeCompleto);
+        String nomeCompleto = nomeCompleto(primeiroNome,segundoNome);
+        System.out.println(nomeCompleto);
 
     }
 
